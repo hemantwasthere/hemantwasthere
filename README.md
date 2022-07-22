@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Web Development (Frontend)**
 
-- 📫 How to reach me **hemant.is.there@gmail.com**
+- 📫 How to reach me **hello@itsmehemant.tech**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/155K-57Tvm4Dc6FKsLo1O5aRFoZ58FOt6/view?usp=sharing](https://drive.google.com/file/d/155K-57Tvm4Dc6FKsLo1O5aRFoZ58FOt6/view?usp=sharing)
 
