@@ -7,17 +7,17 @@
 <h1 align="center">Hi 👋, I'm Hemant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-0000&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-0000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantwasthere&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-0000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemant-0000" alt="hemant-0000" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantwasthere" alt="hemantwasthere" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hemantwasthere" target="blank"><img src="https://img.shields.io/twitter/follow/hemantwasthere?logo=twitter&style=for-the-badge" alt="hemantwasthere" /></a> </p>
 
 - 🔭 I’m currently working on [full stack projects](https://itsmehemant.tech)
 
-- 🌱 I’m currently learning **AWS, DevOps**
+- 🌱 I’m currently learning **AWS, Backend**
 
-- 👯 I’m looking to collaborate on [open source](https://github.com/Hemant-0000)
+- 👯 I’m looking to collaborate on [open source](https://github.com/hemantwasthere)
 
 - 🤝 I’m looking for help with **devops**
 
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **hello@itsmehemant.tech**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/155K-57Tvm4Dc6FKsLo1O5aRFoZ58FOt6/view?usp=sharing](https://drive.google.com/file/d/155K-57Tvm4Dc6FKsLo1O5aRFoZ58FOt6/view?usp=sharing)
+- 📄 Know about my experiences [Resume🗒️](https://drive.google.com/file/d/1n_gKym-x3BZnVFTd6nhXH_q9Jx4qa-qz/view)
 
 - ⚡ Fun fact **pig with 3.14 is 9.8 😏**
 
@@ -46,11 +46,11 @@
 <p><a href="https://www.buymeacoffee.com/xebec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xebec" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemant-0000&show_icons=true&locale=en&layout=compact" alt="hemant-0000" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantwasthere&show_icons=true&locale=en&layout=compact" alt="hemantwasthere" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemant-0000&show_icons=true&locale=en" alt="hemant-0000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantwasthere&show_icons=true&locale=en" alt="hemantwasthere" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant-0000&" alt="hemant-0000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantwasthere&" alt="hemantwasthere" /></p>
 
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
