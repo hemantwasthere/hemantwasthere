@@ -34,6 +34,7 @@
 <br/>
 
 <details>
+<summary><strong>More info..</strong></summary>
 
 ## 📬 Get in touch
 <p align="center">
