@@ -29,7 +29,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantwasthere&theme=black-ice" alt="Salonee-Jain"  /></p>
 
 ## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api)</center>
 
 <details>
 <summary><strong>More info..</strong></summary>
