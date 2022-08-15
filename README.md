@@ -55,10 +55,6 @@
 </a>
 <p/>
 
-<p align="center">
-  <img src="https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 ## 🧋 Support
 <p><a href="https://www.buymeacoffee.com/xebec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xebec" /></a>
 </p>
