@@ -1,12 +1,8 @@
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/iYXcwaknTi6bkd04M8/giphy.gif?cid=790b7611956e083d1b9d3d7ab383a96d0ef4c7e69f674fc0&rid=giphy.gif&ct=g">
-</p>
-
-
-<p align = "center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electrical+Communication+And+Engineering+Student;Frontend+Web+Developer;DSA%20|%20DevOps%20|%20OpenSource%20Enthusiast;Always%20learning%20new%20things&center=true&width=650&height=50"></a>
-</p>
+<br>
 
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Hemant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
