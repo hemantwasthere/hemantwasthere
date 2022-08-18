@@ -1,7 +1,9 @@
 pull_request_rules:
-  - name: Message on opening a PR
+  - name: Automatic merge on approval
     conditions:
-      - "files=README"
+      - files~=\.py$
     actions:
         comment:
-            message: Thanks for updating the README.md file🙏, Keep contributing !!
+          message: |
+            Thanks for contributing in README.md, Have a great journey ahead
+            Keep Contributing !!! 🙏
