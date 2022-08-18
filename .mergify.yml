@@ -7,7 +7,7 @@ pull_request_rules:
         method: merge
   - name: message on modifying README.md
     conditions:
-      - "#approved-reviews-by>=1"
+      - files~=\.md$
     actions:
       comment:
         message: Thanks for Contributing in README.md, KEEP CONTRIBUTING 🤍 !!
