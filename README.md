@@ -44,10 +44,12 @@
 <summary><strong>More info..</strong></summary>
 
 ## &#x1f4c8; My GitHub Stats
+<p  align="center"> 
 <a href="https://github.com/hemantwasthere">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemantwasthere&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantwasthere&theme=algolia&hide=c%2B%2B&layout=compact"/>
 </a>
+</p>
 
 ## 🧋 Support
 <p><a href="https://www.buymeacoffee.com/xebec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xebec" /></a>
