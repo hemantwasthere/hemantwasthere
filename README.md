@@ -26,7 +26,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantwasthere&theme=black-ice" alt="hemantwasthere"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantwasthere&theme=black-ice" alt="mystats"  />
 </p>
 
 <br>
