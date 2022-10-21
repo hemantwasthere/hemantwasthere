@@ -18,7 +18,7 @@
 
 ## 📖  What I am currently learning / improving on
 <p align="center">
-<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2293E6" alt="Vuejs logo" title="Docker" height="25" />
+<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2293E6" alt="vuejs logo" title="Docker" height="25" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
  </p>
  
