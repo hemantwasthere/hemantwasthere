@@ -58,7 +58,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantwasthere&theme=algolia&hide=c%2B%2B&layout=compact"/>
 </a>
 </p>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=hemantwasthere&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
+<!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=hemantwasthere&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" /> -->
 
 ## 🧋 Support
 <p><a href="https://www.buymeacoffee.com/xebec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a>
