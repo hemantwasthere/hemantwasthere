@@ -54,8 +54,8 @@
 ## &#x1f4c8; My GitHub Stats
 <p  align="center"> 
 <a href="https://github.com/hemantwasthere">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemantwasthere&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt=""/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantwasthere&theme=algolia&hide=c%2B%2B&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hemantwasthere&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt=""/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hemantwasthere&theme=algolia&hide=c%2B%2B&layout=compact"/>
 </a>
 </p>
 <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=hemantwasthere&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" /> -->
