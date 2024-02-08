@@ -18,8 +18,8 @@
 
 ## 📖  What I am currently learning / improving on
 <p align="center">
-<img src="https://img.shields.io/badge/Prisma-282C34?logo=Prisma&logoColor=fff" alt="prisma logo" title="Prisma" height="25" />
-<img src="https://img.shields.io/badge/DevOps-282C34?logo=Kubernetes&logoColor=fff" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/Rust-F54D01?logo=rust&logoColor=564438" alt="rust logo" title="Rust" height="25" />
+<img src="https://img.shields.io/badge/Blockchain-282C34?logo=ethereum&logoColor=7870e5" alt="Blockchain logo" title="Blockchain" height="25" />
  </p>
  
 <br/>
